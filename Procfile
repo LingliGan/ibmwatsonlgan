@@ -1,0 +1,1 @@
+web: gunicorn ibmwatsonlgan.wsgi --log-file -
